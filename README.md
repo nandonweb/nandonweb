@@ -1,5 +1,6 @@
 <h1 align="center">Olá 👋, Me Chamo Fernando</h1>
 <!-- <h3 align="left">Connect with me:</h3> -->
+<h2 align="center">Abaixo terá algumas informações sobre mim</h2>
 <p align="left">
 </p>
 <img src="https://raw.githubusercontent.com/nandonweb/nandonweb/main/dino.gif" alt="dino" width="766" height="268"/> </a> 
