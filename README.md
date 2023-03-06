@@ -3,7 +3,6 @@
 <h2 align="center">Abaixo terá algumas informações sobre mim</h2>
 <p align="left">
 </p>
-<img src="https://raw.githubusercontent.com/nandonweb/nandonweb/main/dino.gif" alt="dino" width="766" height="268"/> </a> 
 <h3 align="left">Minhas Habilidades:</h3>
 <p align="left">
   <h4 align="left">Front End</h3>
