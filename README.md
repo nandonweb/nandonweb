@@ -2,7 +2,7 @@
 <!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
 </p>
-<img src="https://raw.githubusercontent.com/nandonweb/nandonweb/main/dino.gif" alt="dino" width="890" height="300"/> </a> 
+<img src="https://raw.githubusercontent.com/nandonweb/nandonweb/main/dino.gif" alt="dino" width="766" height="268"/> </a> 
 <h3 align="left">Minhas Habilidades:</h3>
 <p align="left">
   <h4 align="left">Front End</h3>
