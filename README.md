@@ -50,7 +50,18 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original-wordmark.svg" alt="docker"  width="40" height="40"/> </a>
  
  </p>
+<!-- <br> -->
+
+<h3 align="left">Estudando Atualmente:</h3>
+<a href="https://fivem.net/" target="_blank" rel="noreferrer"> 
+ <img src="https://img.icons8.com/color/512/fivem.png" alt="fivem" width="40" height="40"/> </a>
+<a href="https://gitbook.com" target="_blank" rel="noreferrer"> 
+ <img src="https://www.cygnusdao.finance/static/media/gitbook.8b19b097c428a3540b1d.png" alt="gitbooks" width="40" height="40"/> </a>
+ 
+
+
 <br>
+
 
 ### Tecnologias Mais Usadas
 
