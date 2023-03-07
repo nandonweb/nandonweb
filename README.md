@@ -50,10 +50,10 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original-wordmark.svg" alt="docker"  width="40" height="40"/> </a>
   
   <h4 align="left">Documentação</h3>
-  <a href="https://www.markdownguide.org" target="_blank" rel="noreferrer"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40"/> </a>
   <a href="https://gitbook.com" target="_blank" rel="noreferrer"> 
  <img src="https://www.cygnusdao.finance/static/media/gitbook.8b19b097c428a3540b1d.png" alt="gitbooks" width="40" height="40"/> </a>
+    <a href="https://www.markdownguide.org" target="_blank" rel="noreferrer"> 
+ <img src="https://d33wubrfki0l68.cloudfront.net/f1f475a6fda1c2c4be4cac04033db5c3293032b4/513a4/assets/images/markdown-mark-white.svg" alt="markdown" width="40" height="40"/> </a>
  
  </p>
 <!-- <br> -->
